@@ -2,7 +2,7 @@
 Python CLass
 # mycode (Project Title)
 
-    I am taking a Python class offered by ALta3.  The Object is to learn Python and Ansible.
+    I am taking a Python class offered by ALta3.  The Object is to learn Python and Ansible.  Below is a good template to follow
 
     ## Getting Started
 
